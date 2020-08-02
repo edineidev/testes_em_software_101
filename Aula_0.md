@@ -47,7 +47,7 @@ Testar a segurança da aplicação das mais diversas formas. Utilizar os diverso
 [<img src="https://fluentassertions.com/assets/images/fluent_assertions_large_horizontal.svg" alt="Fluent Assertions" width="200">](https://fluentassertions.com/)
 
 ## Referências
-https://blog.octo.com/en/the-test-pyramid-in-practice-5-5/
-https://pt.wikipedia.org/wiki/Teste_de_software
-https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html
-https://www.portalgsti.com.br/testes-de-software/sobre/
+* https://blog.octo.com/en/the-test-pyramid-in-practice-5-5/
+* https://pt.wikipedia.org/wiki/Teste_de_software
+* https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html
+* https://www.portalgsti.com.br/testes-de-software/sobre/
