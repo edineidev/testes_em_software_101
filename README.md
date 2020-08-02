@@ -7,5 +7,6 @@
 * Aula ?: Sobre NSubstitute
 * Aula ?: Sobre Fluent Assertions
 * Aula ?: Teste de unidade
+* Aula ?: Mocks
 * Aula ?: Quando Mockar
 * Aula ?: Teste de integração
