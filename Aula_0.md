@@ -1,4 +1,4 @@
-# Aula 0 - Introdução a testes em softwares
+# Aula 0 - Introdução a testes em software
 
 ## Fases ou Níveis
 ![Pirâmede de testes](assets/1_piramide_testes.png)
