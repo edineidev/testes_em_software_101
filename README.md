@@ -3,13 +3,18 @@
 ## Indice:
 * [Aula 0: Introdução a testes em softwares](Aula_0.md)
 * Aula ?: Sobre .NET Core 3.1
-* Aula ?: Sobre xUnit.net
-* Aula ?: Sobre NSubstitute
-* Aula ?: Sobre Fluent Assertions
 * Aula ?: Acoplamento e coesão em software
+* Aula ?: Quality Assurance (QA)
 * Aula ?: TDD
-* Aula ?: TDD não é bala de prata
+  * TDD não é bala de prata
+* Aula ?: Behavior Driven Development (BDD)
+  * Cucumber
 * Aula ?: Teste de unidade
+  * xUnit.net
+  * NSubstitute
+  * Fluent Assertions
+  * Cde coverage 100%?
 * Aula ?: Mocks
-* Aula ?: Quando Mockar
+  * Quando Mockar
 * Aula ?: Teste de integração
+  * Cypress.io
