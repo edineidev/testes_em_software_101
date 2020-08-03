@@ -6,7 +6,7 @@
 * Aula ?: Acoplamento e coesão em software
 * Aula ?: Quality Assurance (QA)
 * Aula ?: TDD
-  * TDD não é bala de prata
+  * TDD é bala de prata?
 * Aula ?: Behavior Driven Development (BDD)
   * Cucumber
 * Aula ?: Teste de unidade
