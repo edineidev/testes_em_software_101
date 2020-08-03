@@ -17,4 +17,5 @@
 * Aula ?: Mocks
   * Quando Mockar
 * Aula ?: Teste de integração
+* Aula ?: Teste end-to-end (E2E)
   * Cypress.io
