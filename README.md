@@ -6,6 +6,7 @@
 * Aula ?: Acoplamento e coesão em software
 * Aula ?: Pirâmide de teste
 * Aula ?: O que Quality Assurance (QA)
+  * Testes manual
 * Aula ?: TDD
   * TDD é bala de prata?
 * Aula ?: Behavior Driven Development (BDD)
