@@ -5,7 +5,7 @@
 * Aula ?: Sobre .NET Core 3.1
 * Aula ?: Acoplamento e coesão em software
 * Aula ?: Pirâmide de teste
-* Aula ?: Quality Assurance (QA)
+* Aula ?: O que Quality Assurance (QA)
 * Aula ?: TDD
   * TDD é bala de prata?
 * Aula ?: Behavior Driven Development (BDD)
