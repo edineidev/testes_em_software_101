@@ -17,7 +17,8 @@
   * Fluent Assertions
   * Code coverage 100%?
   * Mocks
-     * Quando Mockar
+    * Quando Mockar
+   * Humble Object pattern
 * Aula ?: Teste de integração
 * Aula ?: Teste end-to-end (E2E)
   * Cypress.io
