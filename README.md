@@ -15,9 +15,9 @@
   * xUnit.net
   * NSubstitute
   * Fluent Assertions
-  * Cde coverage 100%?
-* Aula ?: Mocks
-  * Quando Mockar
+  * Code coverage 100%?
+  * Mocks
+     * Quando Mockar
 * Aula ?: Teste de integração
 * Aula ?: Teste end-to-end (E2E)
   * Cypress.io
