@@ -2,6 +2,7 @@
 
 ## Fases ou Níveis
 ![Pirâmede de testes](assets/1_test-pyramid.png)
+
 Test Driven Development (TDD) ou Desenvolvimento guiado por testes é relacionado a conceitos de programação de Extreme Programming, iniciado em 1999. Através de TDD, programadores podem aplicar o conceito de melhorar e depurar código legado desenvolvido a partir de técnicas antigas. Existe também o Behavior Driven Development (BDD) ou Desenvolvimento Guiado por Comportamento.
 ### Teste de unidade (Unit testing)
 É a fase em que se testam as menores unidades de software desenvolvidas (pequenas partes ou unidades do sistema).
