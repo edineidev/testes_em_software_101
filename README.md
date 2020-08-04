@@ -22,3 +22,4 @@
 * Aula ?: Teste end-to-end (E2E)
   * Cypress.io
 *  Aula ?: Monitoramento
+*  Aula ?: Indo além
