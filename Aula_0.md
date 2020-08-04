@@ -3,7 +3,7 @@
 ## Fases ou Níveis
 ![Pirâmede de testes](assets/1_piramide_testes.png)
 Test Driven Development (TDD) ou Desenvolvimento guiado por testes é relacionado a conceitos de programação de Extreme Programming, iniciado em 1999. Através de TDD, programadores podem aplicar o conceito de melhorar e depurar código legado desenvolvido a partir de técnicas antigas. Existe também o Behavior Driven Development (BDD) ou Desenvolvimento Guiado por Comportamento.
-### Teste de unidade
+### Teste de unidade (Unit testing)
 É a fase em que se testam as menores unidades de software desenvolvidas (pequenas partes ou unidades do sistema).
 #### Red, Green, Refactor
 ![Red, Green, Refactor](assets/2_red_green_refactor.jpg)
@@ -13,7 +13,8 @@ Test Driven Development (TDD) ou Desenvolvimento guiado por testes é relacionad
 
 ### Teste de integração
 Garante que um ou mais componentes combinados (ou unidades) funcionam. Podemos dizer que um teste de integração é composto por diversos testes de unidade, também podemos testar com a persistência no banco de dados.
-### Teste de sistema
+
+### Teste end-to-end (E2E)
 Na fase de teste de sistema, o objetivo é executar o sistema sob ponto de vista de seu usuário final, varrendo as funcionalidades em busca de falhas em relação aos objetivos originais. Os testes são executados em condições similares – de ambiente, interfaces sistêmicas e massas de dados – àquelas que um usuário utilizará no seu dia-a-dia de manipulação do sistema. De acordo com a política de uma organização, podem ser utilizadas condições reais de ambiente, interfaces sistêmicas e massas de dados.
 
 ### Teste de aceitação
@@ -33,9 +34,21 @@ Após o termino dos testes alpha, são abertos os testes beta, onde um grupo res
 #### Gama
 O gama basicamente lança produtos que foram "mal testados" ao mercado e os usuários já tem acesso a aplicação, mesmo que com muitos erros, e os problemas que os usuários encontram são corrigidos quando a aplicação já esta disponível para os usuários finais.
 
-### Teste de Performance/Stress
+### Teste de Performance
 Utilizando algo como Apache JMeter fazendo o sistema ir no limite que processamento de requests por segundos.
 Verifica se o tempo de resposta é o desejado para o momento de utilização da aplicação.
+
+### Teste de estresse
+O teste de estresse é uma forma de teste deliberadamente intenso ou completo usado para determinar a estabilidade de um determinado sistema, infraestrutura ou entidade crítica. Envolve testes além da capacidade operacional normal, geralmente até um ponto de ruptura, para observar os resultados. Os motivos podem incluir:
+
+* para determinar pontos de ruptura ou limites de uso seguro
+* para confirmar que o modelo matemático é preciso o suficiente na previsão de pontos de ruptura ou limites de uso seguro
+* para confirmar que as especificações pretendidas estão sendo atendidas
+* determinar modos de falha (como exatamente um sistema falha)
+* para testar a operação estável de uma peça ou sistema fora do uso padrão
+
+### Teste de carga
+Teste de carga é usado para verificar o limite de dados processados pelo software até que ele não consiga mais processa-lo. 
 
 ### Testes de Segurança
 Testar a segurança da aplicação das mais diversas formas. Utilizar os diversos papéis, perfis, permissões, para navegar no sistema.
@@ -51,3 +64,4 @@ Testar a segurança da aplicação das mais diversas formas. Utilizar os diverso
 * https://pt.wikipedia.org/wiki/Teste_de_software
 * https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html
 * https://www.portalgsti.com.br/testes-de-software/sobre/
+* http://en.wikipedia.org/wiki/Stress_testing
