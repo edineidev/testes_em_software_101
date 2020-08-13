@@ -7,7 +7,7 @@ Veio a tona por [Mike Cohn](http://www.mountaingoatsoftware.com/) em seu livro [
 ## Oque é
 Pirâmide de teste é uma modelo de se pensar em testes onde quando mais baixo o nivél mais rápido e barato é o teste.<br>
 **Teste manual** que fica no topo é necessário alguém executando e verificando as saídas.<br>
-**Teste end-to-end** ou UI, é usado provalmente o Selenium que execute o navegador e faz os assets.
+**Teste end-to-end** ou UI, é usado provalmente o Selenium que execute o navegador e faz os assets.<br>
 **Teste de integração** ou Service, é feito com varios compomentes ou modulos exemplo banco de dados serviço interno/externo.<br>
 **Teste unitário** ou Unit tests é testado a menor unidade possivél sem o acoplamento com outros serviços como banco de dados ou modulos.
 
