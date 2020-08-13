@@ -19,6 +19,7 @@
   * Mocks
     * Quando Mockar
    * Humble Object pattern
+   * BeckDesignRules
 * Aula ?: Teste de integração
 * Aula ?: Teste end-to-end (E2E)
   * Cypress.io
