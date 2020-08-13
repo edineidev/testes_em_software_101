@@ -1,9 +1,13 @@
 # Aula 0 - Introdução a testes em software
 
 ## Fases ou Níveis
-![Pirâmede de testes](assets/1_test-pyramid.png)
+![Pirâmide de teste](assets/1_test-pyramid.png)
 
 Test Driven Development (TDD) ou Desenvolvimento guiado por testes é relacionado a conceitos de programação de Extreme Programming, iniciado em 1999. Através de TDD, programadores podem aplicar o conceito de melhorar e depurar código legado desenvolvido a partir de técnicas antigas. Existe também o Behavior Driven Development (BDD) ou Desenvolvimento Guiado por Comportamento.
+
+### Teste manual
+É quando é necessário um pessoa para fazer as etapas de teste checando a saida do programa. 
+
 ### Teste de unidade (Unit testing)
 É a fase em que se testam as menores unidades de software desenvolvidas (pequenas partes ou unidades do sistema).
 #### Red, Green, Refactor
@@ -61,7 +65,7 @@ Testar a segurança da aplicação das mais diversas formas. Utilizar os diverso
 [<img src="https://fluentassertions.com/assets/images/fluent_assertions_large_horizontal.svg" alt="Fluent Assertions" width="200">](https://fluentassertions.com/)
 
 ## Referências
-* https://blog.octo.com/en/the-test-pyramid-in-practice-5-5/
+* https://martinfowler.com/bliki/TestPyramid.html
 * https://pt.wikipedia.org/wiki/Teste_de_software
 * https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html
 * https://www.portalgsti.com.br/testes-de-software/sobre/
