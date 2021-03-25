@@ -10,6 +10,7 @@
 * Aula ?: TDD
   * TDD é bala de prata?
 * Aula ?: Behavior Driven Development (BDD)
+  * GivenWhenThen
   * Cucumber
 * Aula ?: Teste de unidade
   * xUnit.net
