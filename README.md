@@ -9,6 +9,7 @@
   * Testes manual
 * Aula ?: TDD
   * TDD é bala de prata?
+* Aula ?: ATDD
 * Aula ?: Behavior Driven Development (BDD)
   * GivenWhenThen
   * Cucumber
