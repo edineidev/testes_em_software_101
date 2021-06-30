@@ -17,6 +17,8 @@
   * xUnit.net
   * NSubstitute
   * Fluent Assertions
+  * Moq.AutoMock?
+  * AutoFixture?
   * Code coverage 100%?
   * Mocks
     * Quando Mockar
