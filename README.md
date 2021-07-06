@@ -27,5 +27,6 @@
 * Aula ?: Teste de integração
 * Aula ?: Teste end-to-end (E2E)
   * Cypress.io
+* Aula ?: User Acceptance Testing (UAT)
 *  Aula ?: Monitoramento
 *  Aula ?: Indo além
