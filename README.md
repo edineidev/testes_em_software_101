@@ -3,7 +3,7 @@
 ## Indice:
 * [Aula 0: Introdução a testes em softwares](Aula_0.md)
 * [Aula 1: Pirâmide de teste](Aula_1_piramide.md)
-* Aula ?: O que Quality Assurance (QA)
+* Aula 2: O que Quality Assurance (QA)
   * Testes manual
 * Aula ?: TDD
   * Red, Green, Refactor
