@@ -3,7 +3,9 @@
 ## Indice:
 * [Aula 0: Introdução a testes em softwares](Aula_0.md)
 * [Aula 1: Pirâmide de teste](Aula_1_piramide.md)
-* Aula 2: TDD
+* Aula ?: O que Quality Assurance (QA)
+  * Testes manual
+* Aula ?: TDD
   * Red, Green, Refactor
   * TDD é bala de prata?
 * Aula ?: ATDD
@@ -12,8 +14,6 @@
   * Cucumber
 * Aula ?: Sobre .NET
 * Aula ?: Acoplamento e coesão em software
-* Aula ?: O que Quality Assurance (QA)
-  * Testes manual
 * Aula ?: Teste de unidade
   * xUnit.net
   * NSubstitute
